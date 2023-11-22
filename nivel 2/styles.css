@@ -3,12 +3,6 @@ body {
     margin-left: 40px;
 }
 
-@media screen and (max-whidth: 768px) {
-    .rectangulo-8 {
-        background-color: yellow;
-    }
-}
-
 .rectangulo-1 {
     background-color: black;
     padding: 5px;
@@ -57,7 +51,11 @@ body {
     display: flex;
 }
 
-
+@media screen and (max-width: 768px) {
+    .rectangulo-8 {
+        background-color: yellow;
+    }
+}
 
 .rectangulo-9 {
     padding: 5px;
@@ -68,6 +66,13 @@ body {
     flex-wrap: wrap;
     height: 60px;
     align-content: space-between;
+}
+
+
+@media screen and (max-width: 768px) {
+    .rectangulo-9 {
+        display: block;
+    }
 }
 
 .rectangulo-10,

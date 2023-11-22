@@ -11,10 +11,10 @@ El ancho máximo de la capa que contendrá toda la maquetación será de 1200 px
 
 * Se debe comenzar a preparar la adaptación a diferentes dispositivos, y para ello, es esencial comprender el concepto de Media Query. Observa que hay cambios en la distribución y color de algunos elementos.
 
-* Desde la ITAcademy, recomendamos Breakpoints para las Media Queries de Bootstrap. -> <a href = "https://getbootstrap.com/docs/5.3/layout/breakpoints/#media-queries">Consulta Media queries</a>
+* Desde la ITAcademy, recomendamos Breakpoints para las Media Queries de Bootstrap. -> <a href = "https://getbootstrap.com/docs/5.3/layout/breakpoints/#media-queries"> Consulta Media queries </a>
 
 * Para saber más
-Sobre Media Query -> Diseño web receptivo - Media Queries
+Sobre Media Query -> <a href = "https://www.w3schools.com/css/css_rwd_mediaqueries.asp"> Diseño web receptivo - Media Queries </a>
 
 * Continuando con el proyecto anterior, realiza la versión para tablet, tal como indica la captura siguiente:
 

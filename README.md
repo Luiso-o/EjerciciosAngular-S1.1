@@ -1,4 +1,4 @@
-## Nivel 1
+## Fase 1
 
 * A partir del boceto que te proporcionamos en formato .png, deberás realizar la maquetación en formato de escritorio. Los colores elegidos son indiferentes, pero es crucial que sigas la estructura de las cajas que te indicamos.
 
@@ -7,7 +7,7 @@ El ancho máximo de la capa que contendrá toda la maquetación será de 1200 px
 
 <img src = "/images/Captura1.png">
 
-## Nivel 2
+## Fase 2
 
 * Se debe comenzar a preparar la adaptación a diferentes dispositivos, y para ello, es esencial comprender el concepto de Media Query. Observa que hay cambios en la distribución y color de algunos elementos.
 
@@ -19,3 +19,9 @@ Sobre Media Query -> <a href = "https://www.w3schools.com/css/css_rwd_mediaqueri
 * Continuando con el proyecto anterior, realiza la versión para tablet, tal como indica la captura siguiente:
 
 <img src = "/images/Captura2.png">
+
+## fase 3
+
+* Como en el caso anterior, ahora tendrás que hacer la adaptación a la versión móvil.
+
+<img src = "/images/Captura3.png">

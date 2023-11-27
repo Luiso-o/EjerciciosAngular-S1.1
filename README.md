@@ -5,7 +5,7 @@
 * Importante
 El ancho máximo de la capa que contendrá toda la maquetación será de 1200 px (max-width: 1200 px).
 
-<img src = "/images/Captura#1.png">
+<img src = "/images/Captura1.png">
 
 ## Nivel 2
 
@@ -18,4 +18,4 @@ Sobre Media Query -> <a href = "https://www.w3schools.com/css/css_rwd_mediaqueri
 
 * Continuando con el proyecto anterior, realiza la versión para tablet, tal como indica la captura siguiente:
 
-<img src = "/images/Captura#2.png">
+<img src = "/images/Captura2.png">

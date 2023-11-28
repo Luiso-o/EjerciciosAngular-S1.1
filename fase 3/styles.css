@@ -145,7 +145,12 @@ body{
     .contenedor-3,
     .contenedor-4,
     .contenedor-5 {
-        width: 95%;
+        width: 90%;
+    }
+
+    .contenedor-9,
+    .contenedor-15 {
+        width: 90%;
     }
 
 }

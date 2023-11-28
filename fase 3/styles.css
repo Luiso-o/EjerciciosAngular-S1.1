@@ -138,6 +138,18 @@ body{
 }
 
 @media (max-width: 350px){
+    .contenedor-1 {
+        background-color: yellow;
+    }
+
+    .contenedor-15{
+        background-color: royalblue;
+    }
+
+    .contenedor-18{
+        background-color: rgb(183, 115, 115);
+    }
+
     .contenedor-2{
         display: block;
     }
